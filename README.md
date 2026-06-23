@@ -1,4 +1,4 @@
-# Coding-tools-for-Students
+# Introduction to AI Concepts
 A collaborative guide by 
    1. Joshua Wanje.
    2. Susan.
@@ -7,19 +7,21 @@ A collaborative guide by
    5. Elisha Kibichii
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [VS Code](#vs-code)
-- [Notion](#notion)
-- [Canva](#canva)
+- [AI Concepts](#AI Concepts)
+- [(machine learning](#(machine learning)
+- [NLP](#NLP)
+- [AI Ethics](#AI Ethics)
 
 ## Introduction
-This guide covers tools that every student should know about.
+ These is an introduction to key Artificial Intelligence(AI)
+ concepts.AI is a field of ccomputer science that builds systems
+ capable of performing tasks typically requiring human intelligence. 
 
-## VS Code
+## machine learning
 <!-- [Team Member 1 Name] will write this section -->
 
-## Notion
+## NLP
 <!-- [Team Member 2 Name] will write this section -->
 
-## Canva
+## AI Ethics
 <!-- [Team Member 3 Name] will write this section -->
