@@ -23,7 +23,17 @@ A collaborative guide by
 
 ## NLP
 
-<!-- [Team Member 2 Name] will write this section -->
+**NLPP** is a s a branch of Artificial Intelligence (AI) that empowers computers to understand, interpret, and generate human language.
+
+### Core Processing 
+NLP works by converting unstructured human text or speech into structured data that a computer can analyze.
+1. Text Preprocessing (Cleaning the Input)
+  .Tokenization: Breaking sentences into smaller units like words or subword
+  . Lowercasing: Converting all text to lowercase to ensure consistency.
+
+### Why NLP Ethics Matters
+NLP matters because humans communicate in unstructured text and speech, while computers require structured numbers. NLP bridges this gap, unlocking value across technology, business, and daily life
+
 
 ## AI Ethics
 **AI Ethics** is a multidisciplinary field focused on the moral principles and guidelines required to design, deploy, and govern artificial intelligence responsibly
